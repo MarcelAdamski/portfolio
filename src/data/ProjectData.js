@@ -40,7 +40,7 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "/home/marcel/Repos/portfolio/portfolio-react/src/Assets/linux.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/redis.png",
     name: "Linux",
   },
   {
