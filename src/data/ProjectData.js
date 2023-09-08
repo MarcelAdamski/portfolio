@@ -44,7 +44,7 @@ export const stackList = [
     name: "Linux",
   },
   {
-    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/aws2.png",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/aws.png",
     name: "AWS",
   },
   {
