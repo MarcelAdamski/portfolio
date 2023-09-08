@@ -88,7 +88,7 @@ export const stackList = [
     name: "Git",
   },
   {
-    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/gitlab.png",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/gitlab1.png",
     name: "Gitlab",
   },
   {
@@ -96,7 +96,7 @@ export const stackList = [
     name: "NewRelic",
   },
   {
-    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/grafana1.png",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/grafana.png",
     name: "Grafana",
   },
   {
