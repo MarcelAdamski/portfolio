@@ -52,7 +52,7 @@ export const stackList = [
     name: "Python",
   },
   {
-    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/docker.png",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/docker1.png",
     name: "Docker",
   },
   {
