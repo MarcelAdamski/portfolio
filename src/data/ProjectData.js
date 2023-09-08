@@ -48,59 +48,59 @@ export const stackList = [
     name: "AWS",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/python.png",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/python.png",
     name: "Python",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/python.jpg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/docker.png",
     name: "Docker",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/python.jpg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/kubernetes.png",
     name: "Kubernetes",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/terraform.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/terraform.png",
     name: "Terraform",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/jenkins.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/jenkins.png",
     name: "Jenkins",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/ansible.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/ansible.png",
     name: "Ansible",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/postgresql.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/postgresql.png",
     name: "Postgresql",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/haproxy.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/haproxy.png",
     name: "HaProxy",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/nginx.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/nginx.png",
     name: "Nginx",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/git.png",
     name: "Git",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/gitlab.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/gitlab.png",
     name: "Gitlab",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/newrelic.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/newrelic.png",
     name: "NewRelic",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/grafana.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/grafana.png",
     name: "Grafana",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/zabbix.svg",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/zabbix.png",
     name: "Zabbix",
   }
 ];
