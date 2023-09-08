@@ -84,7 +84,7 @@ export const stackList = [
     name: "Nginx",
   },
   {
-    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/git.png",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/git1.png",
     name: "Git",
   },
   {
