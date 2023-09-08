@@ -64,7 +64,7 @@ export const stackList = [
     name: "Terraform",
   },
   {
-    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/jenkins.png",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/jenkins1.png",
     name: "Jenkins",
   },
   {

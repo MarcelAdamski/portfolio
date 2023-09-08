@@ -37,7 +37,7 @@ function SocialIcon() {
       <ul>
         <li className="item">
           <a
-            href="https://www.linkedin.com/in/your_username/"
+            href="https://www.linkedin.com/in/marcel-adamski/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -46,14 +46,14 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://github.com/your_username/"
+            href="https://github.com/marceladamski/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaGithub />
           </a>
         </li>
-        <li className="item">
+        {/* <li className="item">
           <a
             href="https://github.com/your_username/"
             target="_blank"
@@ -61,7 +61,7 @@ function SocialIcon() {
           >
             <FaInstagram />
           </a>
-        </li>
+        </li> */}
       </ul>
     </SocialDiv>
   );
