@@ -96,7 +96,7 @@ export const stackList = [
     name: "NewRelic",
   },
   {
-    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/grafana.png",
+    img: "https://raw.githubusercontent.com/MarcelAdamski/portfolio/main/src/Assets/grafana1.png",
     name: "Grafana",
   },
   {
