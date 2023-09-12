@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
+    img: "",
     time: "Oct 2022 - present",
     title: "Redge Technologies",
     description: "‣ Working close and developing environments with high-traffic production platforms (up to 1mln users) in the online television and streaming industry. <br> ‣ Got to design project from scratches in terms of infrastructure, network, security, monitoring and fully automatic deployment solutions based on newest technologies with real production traffic.<br>‣ Collaborate with software development team and testing teams to prepare for the customization or enhancements required to support frequent releases of application based on Java (backend) and Javascript (fronted) - (managing Wildfly, Tomcat, Nginx, Postgresql, ActiveMQ, RabbitMQ, Redis)<br>‣ During service windows supporting no-downtime releases<br>‣ Implementation, maintanence and development of CI/CD processes (Jenkins [Groovy], Gitlab CI/CD)<br>‣ Management and automation of processes using best practises (Ansible/Terraform [Terragrunt]/Puppet) <br>‣ Maintaining both On-Premise and Cloud infrastructures (strong AWS, Linux) <br>‣ Writing automation scripts or alarms (Python/Bash) <br>‣ Building and maintaining a monitoring architecture and implementing monitoring systems, dashboards, escalations and alerts with on-call rotation and incident management. Constantly reducing critical incidents and improving the stability of the platforms.(CloudWatch/NewRelic/Zabbix/Nagios)<br>‣ Working in strict scrum sprints",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "https://your_project_demo_link",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png2",
+    img: "",
     time: "Jun 2021 - Sep 2022",
     title: "Tenesys",
     description: "‣ Implementation of CI/CD processes (Gitlab CI/CD) <br> ‣ Management and automation of processes (Ansible/Terraform) <br> ‣ Maintaining On-Premise and Cloud infrastructures (AWS, Proxmox, Linux) <br> ‣ Writing automation scripts (Python/Bash) <br> ‣ Monitoring and incident management (Grafana/Telegraf/Zabbix/Nagios)",
@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "https://your_project_demo_link",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
+    img: "",
     time: "Feb 2020 - Jun 2021",
     title: "Poznan University of Technology",
     description: "‣ Master engineering second-cycle studies <br> ‣ Master thesis: Environment for implementing systems using DevOps techniques",
@@ -28,7 +28,7 @@ export const ProjectList = [
     demo_url: "https://your_project_demo_link/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
+    img: "",
     time: "Oct 2016 - Feb 2020",
     title: "Poznan University of Technology",
     description: "‣ Engineering first-cycle studies <br> ‣ Specialization: Computer networks and internet technology",
