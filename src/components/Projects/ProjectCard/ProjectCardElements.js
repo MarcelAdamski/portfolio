@@ -15,15 +15,22 @@ export const Card = styled.div`
 `;
 
 export const CardLeft = styled.div`
-  background: #151418;
+  // background: #151418;
   border-radius: 5px;
   padding: 5px;
+  margin-top: 50px;
   justify-self: center;
-
-  img {
-    border-radius: 3px;
-    height: auto;
+  text-align: center;
+  //align-items: center;
+  justify-content: center;
+  h4 {
+    font-size: 1.8rem;
+    font-weight: 400;
   }
+  //img {
+  //  border-radius: 3px;
+  //  height: auto;
+  //}
 `;
 
 export const CardRight = styled.div`
@@ -33,8 +40,8 @@ export const CardRight = styled.div`
   align-items: center;
 
   h4 {
-    font-size: 1.5rem;
-    font-weight: 400;
+    font-size: 1.8rem;
+    font-weight: 1000;
   }
 
   p {

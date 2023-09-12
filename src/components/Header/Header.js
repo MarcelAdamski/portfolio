@@ -7,7 +7,7 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/logo.png"
+            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/logoA.png"
             alt="logo"
           />
         </Logo>
@@ -16,7 +16,7 @@ const Header = ({ toggle }) => {
             About
           </NavLink>
           <NavLink className="menu-item" to="projects" smooth={true}>
-            Projects
+            Experience
           </NavLink>
           <NavLink className="menu-item" to="contact" smooth={true}>
             Contact

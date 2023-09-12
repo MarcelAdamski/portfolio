@@ -36,9 +36,9 @@ function Hero() {
             />
           </HeroRight>
         </HeroWrapper>
-        <ScrollDown to="projects">
+        <ScrollDown to="contact">
           <ScrollLink>
-            Scroll down
+            Contact me
             <img
               src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/scroll-down.svg"
               alt="scroll-down"

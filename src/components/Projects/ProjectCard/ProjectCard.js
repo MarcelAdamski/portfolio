@@ -13,16 +13,20 @@ function ProjectCard() {
       {ProjectList.map((list, index) => (
         <Card key={index}>
           <CardLeft>
-            <img src={list.img} alt={list.name} />
+            {/* <Stack> */}
+              {/* <img src={list.img} alt={list.title} /> */}
+              {/* <span className="tags">{list.tech_stack}</span> */}
+              <h4>{list.time}</h4>
+            {/* </Stack> */}
           </CardLeft>
           <CardRight>
             <h4>{list.title}</h4>
-            <p>{list.description}</p>
+            <p dangerouslySetInnerHTML={{ __html: list.description }}></p>
             <Stack>
-              <span className="stackTitle">Tech Stack -</span>
+              <span className="stackTitle">Title: </span>
               <span className="tags">{list.tech_stack}</span>
             </Stack>
-            <BtnGroup>
+            {/* <BtnGroup>
               <a
                 className="btn btn2 SecondarBtn"
                 href={list.github_url}
@@ -39,7 +43,7 @@ function ProjectCard() {
               >
                 Demo ➜
               </a>
-            </BtnGroup>
+            </BtnGroup> */}
           </CardRight>
         </Card>
       ))}
