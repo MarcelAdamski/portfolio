@@ -89,7 +89,7 @@ function Dropdown({ isOpen, toggle }) {
       <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="src/Assets/cv.pdf"
+          href={process.env.PUBLIC_URL + "/cv.pdf"}
           target="_blank"
           rel="noopener noreferrer"
         >
