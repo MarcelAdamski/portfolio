@@ -11,7 +11,7 @@ export const ProjectList = [
   },
   {
     img: "",
-    time: "Jun 2021 - Sep 2022",
+    time: "Jun 2021 - Oct 2022",
     title: "Tenesys",
     description: "‣ Implementation of CI/CD processes (Gitlab CI/CD) <br> ‣ Management and automation of processes (Ansible/Terraform) <br> ‣ Maintaining On-Premise and Cloud infrastructures (AWS, Proxmox, Linux) <br> ‣ Writing automation scripts (Python/Bash) <br> ‣ Monitoring and incident management (Grafana/Telegraf/Zabbix/Nagios)",
     tech_stack: "DevOps engineer",
