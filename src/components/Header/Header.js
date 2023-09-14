@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href={process.env.PUBLIC_URL + "/cv2.pdf"}
+            href={process.env.PUBLIC_URL + "/cv.pdf"}
             target="_blank"
             rel="noopener noreferrer"
           >
